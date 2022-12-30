@@ -2,10 +2,14 @@ Enthusiastic about ✨
 - Machine Learning on Microcontrollers
 - Networked Embedded Systems
 - Low-Power System Design
+-------------
 - Principles of Distributed Computing
 - System&Network Security
 - Security of Wireless Networks
 - Computer Architecture
+-------------
+- Android Full stack development
+- Android in AR/XR Applications
 
 
 <!---
